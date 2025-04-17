@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "D:\\DotNet\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\infrastructures\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\infrastructures\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\domain\\entities\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\domain\\entities\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\services\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\services\\interface\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\dtos\\coursedto\\updatecoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\dtos\\coursedto\\updatecoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\infrastructures\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\infrastructures\\iapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\services\\implementation\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\services\\implementation\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\services\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\services\\interface\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\domain\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\services\\implementation\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\services\\implementation\\schoolservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,76 +46,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Program.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Program.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Program.cs",
+              "DocumentIndex": 4,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Interface\\IStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\Services\\Interface\\IStudentService.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Interface\\IStudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\Services\\Interface\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:47:29.295Z"
+              "WhenOpened": "2025-04-17T09:25:47.933Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Domain\\Entities\\Student.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\Student.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Domain\\Entities\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "UpdateCourseModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseDTO\\UpdateCourseModel.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\DTOs\\CourseDTO\\UpdateCourseModel.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseDTO\\UpdateCourseModel.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\DTOs\\CourseDTO\\UpdateCourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:44:32.279Z"
+              "WhenOpened": "2025-04-17T09:22:49.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolService.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Implementation\\SchoolService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\Services\\Implementation\\SchoolService.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Implementation\\SchoolService.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\Services\\Implementation\\SchoolService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T09:21:12.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Infrastructures\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Infrastructures\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Infrastructures\\ApplicationDbContext.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Infrastructures\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:41:18.214Z",
+              "WhenOpened": "2025-04-17T08:49:01.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Interface\\ICourseService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\Services\\Interface\\ICourseService.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Interface\\ICourseService.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\Services\\Interface\\ICourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T08:29:22.408Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Infrastructures\\IApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Infrastructures\\IApplicationDbContext.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Infrastructures\\IApplicationDbContext.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Infrastructures\\IApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Implementation\\CourseService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\Services\\Implementation\\CourseService.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Implementation\\CourseService.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\Services\\Implementation\\CourseService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAAEQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:42:21.67Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CourseStudent.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:27:02.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\Course.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Domain\\Entities\\Course.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\Course.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Domain\\Entities\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:21:00.66Z"
+              "WhenOpened": "2025-04-17T08:34:06.533Z",
+              "EditorCaption": ""
             }
           ]
         }
