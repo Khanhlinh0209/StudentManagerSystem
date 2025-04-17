@@ -1,6 +1,4 @@
-﻿using StudentManagementSystem.Domain.Entities;
-
-namespace StudentManagementSystem.Application.DTOs.CourseDTO
+﻿namespace StudentManagementSystem.Application.DTOs.CourseDTO
 {
     public class CourseViewModel
     {
@@ -8,6 +6,5 @@ namespace StudentManagementSystem.Application.DTOs.CourseDTO
         public string CourseName { get; set; }
 
         public DateTime StartDate { get; set; }
-        public virtual ICollection<CourseStudent> CourseStudents { get; set; }
     }
 }

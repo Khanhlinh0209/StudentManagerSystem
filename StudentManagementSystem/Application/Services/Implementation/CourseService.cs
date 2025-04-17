@@ -9,22 +9,17 @@ namespace StudentManagementSystem.Application.Services.Implementation
     {
         public IEnumerable<CourseViewModel> GetCourses(int? CourseId)
         {
-            var course = _context.Courses.FirstOrDefault(x => x.CourseId == CourseId);
-            if (course == null)
+            var Course = _context.Courses.AsQueryable();
+            if (CourseId.HasValue)
             {
-                return null;
+                Course = Course.Where(school => school.CourseId == CourseId);
             }
-            else
+            return [.. Course.Select(course => new CourseViewModel
             {
-                var courseViewModel = new CourseViewModel
-                {
-                    CourseId = course.CourseId,
-                    CourseName = course.CourseName,
-                    StartDate = course.StartDate,
-                    CourseStudents = course.CourseStudents
-                };
-                return new List<CourseViewModel> { courseViewModel };
-            }
+                CourseId = course.CourseId,
+                CourseName = course.CourseName,
+                StartDate = course.StartDate,
+            })];
         }
 
         public bool CreateCourse(CreateCourseModel course)
@@ -35,7 +30,7 @@ namespace StudentManagementSystem.Application.Services.Implementation
                 StartDate = course.StartDate,
             };
             _context.Courses.Add(newCourse);
-            var result = _context.SaveChanges();
+            _context.SaveChanges();
             return true;
         }
 
