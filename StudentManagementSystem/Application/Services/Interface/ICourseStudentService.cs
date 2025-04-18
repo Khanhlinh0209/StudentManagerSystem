@@ -13,5 +13,7 @@ namespace StudentManagementSystem.Application.Services.Interface
         IEnumerable<CourseScoreViewModel> GetScoresByStudent(int studentId);
 
         float GetAverageScore(int studentId);
+
+        bool RegisterCourse(RegisterCourseModel registerCourse);
     }
 }

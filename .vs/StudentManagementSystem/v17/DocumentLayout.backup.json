@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\DotNet\\StudentManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\controllers\\coursestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\coursestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\domain\\entities\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\domain\\entities\\coursestudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\services\\implementation\\coursestudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\services\\implementation\\coursestudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\dtos\\coursestudentdto\\coursescoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\dtos\\coursestudentdto\\coursescoreviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\dtos\\coursestudentdto\\registercoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\dtos\\coursestudentdto\\registercoursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\dtos\\coursestudentdto\\updatecoursestudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\dtos\\coursestudentdto\\updatecoursestudentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\controllers\\coursestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\controllers\\coursestudentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\dtos\\coursestudentdto\\coursestudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\dtos\\coursestudentdto\\coursestudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|d:\\dotnet\\studentmanagementsystem\\studentmanagementsystem\\application\\services\\interface\\icoursestudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03CD5E86-2DAF-443A-B8BA-D6BB14B5F089}|StudentManagementSystem\\StudentManagementSystem.csproj|solutionrelative:studentmanagementsystem\\application\\services\\interface\\icoursestudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,54 +50,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CourseStudentController.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseStudentController.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\CourseStudentController.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseStudentController.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Controllers\\CourseStudentController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAowCgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:34:52.352Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CourseScoreViewModel.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseScoreViewModel.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseScoreViewModel.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseScoreViewModel.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseScoreViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:58:43.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateCourseStudentModel.cs",
-              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\UpdateCourseStudentModel.cs",
-              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\UpdateCourseStudentModel.cs",
-              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\UpdateCourseStudentModel.cs",
-              "RelativeToolTip": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\UpdateCourseStudentModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:50:54.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CourseStudentService.cs",
               "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Implementation\\CourseStudentService.cs",
               "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\Services\\Implementation\\CourseStudentService.cs",
               "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Implementation\\CourseStudentService.cs",
               "RelativeToolTip": "StudentManagementSystem\\Application\\Services\\Implementation\\CourseStudentService.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAEwFkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:27:54.321Z",
+              "WhenOpened": "2025-04-18T08:10:38.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseStudent.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Domain\\Entities\\CourseStudent.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:11:51.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterCourseModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\RegisterCourseModel.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\RegisterCourseModel.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\RegisterCourseModel.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\RegisterCourseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:22:42.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseStudentController.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseStudentController.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Controllers\\CourseStudentController.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Controllers\\CourseStudentController.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Controllers\\CourseStudentController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAMwCQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:11:23.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseStudentViewModel.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseStudentViewModel.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseStudentViewModel.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\DTOs\\CourseStudentDTO\\CourseStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:12:59.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICourseStudentService.cs",
+              "DocumentMoniker": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Interface\\ICourseStudentService.cs",
+              "RelativeDocumentMoniker": "StudentManagementSystem\\Application\\Services\\Interface\\ICourseStudentService.cs",
+              "ToolTip": "D:\\DotNet\\StudentManagementSystem\\StudentManagementSystem\\Application\\Services\\Interface\\ICourseStudentService.cs",
+              "RelativeToolTip": "StudentManagementSystem\\Application\\Services\\Interface\\ICourseStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T08:09:59.139Z",
               "EditorCaption": ""
             }
           ]

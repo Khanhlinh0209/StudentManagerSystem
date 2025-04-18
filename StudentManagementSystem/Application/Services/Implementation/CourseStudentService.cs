@@ -70,9 +70,9 @@ namespace StudentManagementSystem.Application.Services.Implementation
                 .Select(cs => new CourseScoreViewModel
                 {
                     CourseName = cs.Course.CourseName,
-                    AssignmentScore = cs.AssignmentScore,
-                    PracticalScore = cs.PracticalScore,
-                    FinalScore = cs.FinalScore
+                    AssignmentScore = (float)cs.AssignmentScore,
+                    PracticalScore = (float)cs.PracticalScore,
+                    FinalScore = (float)cs.FinalScore
                 }).ToList();
             return scores;
         }
@@ -82,9 +82,31 @@ namespace StudentManagementSystem.Application.Services.Implementation
             var scores = _context.CourseStudents.Where(cs => cs.StudentId == studentId)
                 .Select(cs => (cs.AssignmentScore + cs.PracticalScore + cs.FinalScore) / 3f)
                 .ToList();
-            if (!scores.Any()) return 0;
+            if (scores.Count == 0) return 0;
 
-            return scores.Average();
+            return (float)scores.Average();
+        }
+
+        public bool RegisterCourse(RegisterCourseModel registerCourse)
+        {
+            var exists = _context.CourseStudents.Any(cs =>
+        cs.StudentId == registerCourse.StudentId &&
+        cs.CourseId == registerCourse.CourseId);
+
+            if (exists)
+                return false; // Hoặc throw lỗi đã đăng ký
+
+            var newEntry = new CourseStudent
+            {
+                StudentId = registerCourse.StudentId,
+                CourseId = registerCourse.CourseId,
+                AssignmentScore = null,    // vì mới đăng ký
+                PracticalScore = null,
+                FinalScore = null
+            };
+
+            _context.CourseStudents.Add(newEntry);
+            return _context.SaveChanges() > 0;
         }
     }
 }

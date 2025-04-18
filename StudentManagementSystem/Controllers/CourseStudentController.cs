@@ -37,5 +37,11 @@ namespace StudentManagementSystem.Controllers
         {
             return courseService.GetAverageScore(studentId);
         }
+
+        [HttpPost("register")]
+        public bool RegisterCourse(RegisterCourseModel registerCourse)
+        {
+            return courseService.RegisterCourse(registerCourse);
+        }
     }
 }
